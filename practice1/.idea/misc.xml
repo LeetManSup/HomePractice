@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/clickbuttons/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layoutfile/src/main/res/layout-land/activity_second.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layoutfile/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layoutfile/src/main/res/layout/activity_second.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/drawable/testPic_background.xml" value="0.2265" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout-land/activity_second.xml" value="0.21516754850088182" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/activity_second.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/constraint_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/linear_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/relative_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/layout/table_layout.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/layouttype/src/main/res/mipmap-anydpi-v26/testPic.xml" value="0.2595" />
+        <entry key="..\:/Users/ouhgu/AndroidStudioProjects/practice1/task6/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
