@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "practice2"
+include ':app'
+include ':lifecycleactivity'
+include ':multiactivity'
+include ':internetfilter'
+include ':toastapp'
+include ':notificationapp'
+include ':dialog'
+include ':task6_7'
