@@ -14,4 +14,9 @@
         android:name="com.mirea.lutsko.mireaproject.CalculateFragment"
         android:label="fragment_calculate"
         tools:layout="@layout/fragment_calculate" />
+    <fragment
+        android:id="@+id/musicFragment"
+        android:name="com.mirea.lutsko.mireaproject.MusicFragment"
+        android:label="fragment_music"
+        tools:layout="@layout/fragment_music" />
 </navigation>
