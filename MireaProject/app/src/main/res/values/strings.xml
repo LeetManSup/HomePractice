@@ -18,4 +18,5 @@
     <string name="hardware">Аппаратная часть</string>
     <string name="camera">Камера</string>
     <string name="makeAPhoto">Сфотографировать и сохранить</string>
+    <string name="settings">Настройки</string>
 </resources>

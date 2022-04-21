@@ -24,5 +24,9 @@
             android:id="@+id/photoFragment"
             android:icon="@drawable/ic_camera_foreground"
             android:title="@string/camera"/>
+        <item
+            android:id="@+id/settingsFragment"
+            android:icon="@drawable/ic_settings_foreground"
+            android:title="@string/settings"/>
     </group>
 </menu>

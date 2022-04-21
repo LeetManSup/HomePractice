@@ -29,4 +29,9 @@
         android:name="com.mirea.lutsko.mireaproject.PhotoFragment"
         android:label="fragment_photo"
         tools:layout="@layout/fragment_photo" />
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.mirea.lutsko.mireaproject.SettingsFragment"
+        android:label="fragment_settings"
+        tools:layout="@layout/fragment_settings" />
 </navigation>
