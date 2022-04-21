@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.mirea.lutsko.mireaproject">
-
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -14,12 +17,13 @@
         <service
             android:name=".MusicService"
             android:enabled="true"
-            android:exported="true"></service>
-
+            android:exported="true"/>
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/filepaths" />
         <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.MireaProject.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

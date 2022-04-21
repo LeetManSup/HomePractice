@@ -15,4 +15,7 @@
     <string name="browser">Браузер</string>
     <string name="calc">Калькулятор</string>
     <string name="music">Музыка</string>
+    <string name="hardware">Аппаратная часть</string>
+    <string name="camera">Камера</string>
+    <string name="makeAPhoto">Сфотографировать и сохранить</string>
 </resources>

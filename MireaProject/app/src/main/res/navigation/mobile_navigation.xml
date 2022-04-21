@@ -19,4 +19,14 @@
         android:name="com.mirea.lutsko.mireaproject.MusicFragment"
         android:label="fragment_music"
         tools:layout="@layout/fragment_music" />
+    <fragment
+        android:id="@+id/hardwareFragment"
+        android:name="com.mirea.lutsko.mireaproject.HardwareFragment"
+        android:label="fragment_hardware"
+        tools:layout="@layout/fragment_hardware" />
+    <fragment
+        android:id="@+id/photoFragment"
+        android:name="com.mirea.lutsko.mireaproject.PhotoFragment"
+        android:label="fragment_photo"
+        tools:layout="@layout/fragment_photo" />
 </navigation>

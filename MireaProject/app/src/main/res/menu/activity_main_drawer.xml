@@ -16,5 +16,13 @@
             android:id="@+id/musicFragment"
             android:icon="@drawable/ic_music_foreground"
             android:title="@string/music"/>
+        <item
+            android:id="@+id/hardwareFragment"
+            android:icon="@drawable/ic_hardware_foreground"
+            android:title="@string/hardware"/>
+        <item
+            android:id="@+id/photoFragment"
+            android:icon="@drawable/ic_camera_foreground"
+            android:title="@string/camera"/>
     </group>
 </menu>
