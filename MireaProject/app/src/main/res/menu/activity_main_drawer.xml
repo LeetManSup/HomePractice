@@ -5,28 +5,36 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/webViewFragment"
-            android:icon="@drawable/ic_cloud_foreground"
-            android:title="@string/browser" />
+            android:id="@+id/browserFragment"
+            android:icon="@drawable/ic_search_foreground"
+            android:title="@string/menu_browser" />
         <item
-            android:id="@+id/calculateFragment"
-            android:icon="@drawable/ic_calc_foreground"
-            android:title="@string/calc"/>
+            android:id="@+id/calculatorFragment"
+            android:icon="@drawable/ic_calculator_foreground"
+            android:title="@string/menu_calculator"/>
         <item
             android:id="@+id/musicFragment"
             android:icon="@drawable/ic_music_foreground"
-            android:title="@string/music"/>
+            android:title="@string/menu_music"/>
         <item
-            android:id="@+id/hardwareFragment"
-            android:icon="@drawable/ic_hardware_foreground"
-            android:title="@string/hardware"/>
+            android:id="@+id/sensorsFragment"
+            android:icon="@drawable/ic_sensors_foreground"
+            android:title="@string/menu_sensors"/>
         <item
-            android:id="@+id/photoFragment"
+            android:id="@+id/cameraFragment"
             android:icon="@drawable/ic_camera_foreground"
-            android:title="@string/camera"/>
+            android:title="@string/menu_camera"/>
+        <item
+            android:id="@+id/recorderFragment"
+            android:icon="@drawable/ic_recorder_foreground"
+            android:title="@string/menu_recorder"/>
         <item
             android:id="@+id/settingsFragment"
             android:icon="@drawable/ic_settings_foreground"
-            android:title="@string/settings"/>
+            android:title="@string/menu_settings"/>
+        <item
+            android:id="@+id/storiesFragment"
+            android:icon="@drawable/ic_stories_foreground"
+            android:title="@string/menu_stories"/>
     </group>
 </menu>

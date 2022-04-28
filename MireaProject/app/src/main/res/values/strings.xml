@@ -2,21 +2,42 @@
     <string name="app_name">MireaProject</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_title">БСБО–04–20</string>
+    <string name="nav_header_subtitle">Люцько Сергей Алексеевич</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
-    <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="browser">Браузер</string>
-    <string name="calc">Калькулятор</string>
-    <string name="music">Музыка</string>
-    <string name="hardware">Аппаратная часть</string>
-    <string name="camera">Камера</string>
-    <string name="makeAPhoto">Сфотографировать и сохранить</string>
-    <string name="settings">Настройки</string>
+    <string name="menu_browser">Браузер</string>
+    <string name="menu_calculator">Калькулятор</string>
+    <string name="menu_music">Музыка</string>
+    <string name="menu_sensors">Сенсоры</string>
+    <string name="menu_camera">Камера</string>
+    <string name="menu_recorder">Диктофон</string>
+    <string name="menu_settings">Параметры</string>
+    <string name="menu_stories">Истории</string>
+    <string name="title_activity_firebase_authentication">FirebaseAuthentication</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="hint_user_id">User ID</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="verify_email">Verify Email</string>
+    <string name="signed_in">Signed In</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="auth_failed">Authentication failed</string>
+    <string name="firebase_status_fmt">Firebase UID: %s</string>
+    <string name="firebase_user_management">Firebase User Management</string>
+    <string name="emailpassword_status_fmt">Email User: %1$s (verified: %2$b)</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="error_sign_in_failed">Sign in failed, see logs for details.</string>
 </resources>

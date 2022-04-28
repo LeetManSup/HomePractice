@@ -3,35 +3,52 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/mobile_navigation"
-    app:startDestination="@id/webViewFragment">
+    app:startDestination="@+id/nav_home">
+
     <fragment
-        android:id="@+id/webViewFragment"
-        android:name="com.mirea.lutsko.mireaproject.WebViewFragment"
-        android:label="fragment_web_view"
-        tools:layout="@layout/fragment_web_view" />
+        android:id="@+id/nav_home"
+        android:name="com.mirea.lutsko.mireaproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
     <fragment
-        android:id="@+id/calculateFragment"
-        android:name="com.mirea.lutsko.mireaproject.CalculateFragment"
-        android:label="fragment_calculate"
-        tools:layout="@layout/fragment_calculate" />
+        android:id="@+id/browserFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.browser.BrowserFragment"
+        android:label="@string/menu_browser"
+        tools:layout="@layout/fragment_browser" />
+    <fragment
+        android:id="@+id/calculatorFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.calculator.CalculatorFragment"
+        android:label="@string/menu_calculator"
+        tools:layout="@layout/fragment_calculator" />
     <fragment
         android:id="@+id/musicFragment"
-        android:name="com.mirea.lutsko.mireaproject.MusicFragment"
-        android:label="fragment_music"
+        android:name="com.mirea.lutsko.mireaproject.ui.music.MusicFragment"
+        android:label="@string/menu_music"
         tools:layout="@layout/fragment_music" />
     <fragment
-        android:id="@+id/hardwareFragment"
-        android:name="com.mirea.lutsko.mireaproject.HardwareFragment"
-        android:label="fragment_hardware"
-        tools:layout="@layout/fragment_hardware" />
+        android:id="@+id/sensorsFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.sensors.SensorsFragment"
+        android:label="@string/menu_sensors"
+        tools:layout="@layout/fragment_sensors" />
     <fragment
-        android:id="@+id/photoFragment"
-        android:name="com.mirea.lutsko.mireaproject.PhotoFragment"
-        android:label="fragment_photo"
-        tools:layout="@layout/fragment_photo" />
+        android:id="@+id/cameraFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.camera.CameraFragment"
+        android:label="@string/menu_camera"
+        tools:layout="@layout/fragment_camera" />
+    <fragment
+        android:id="@+id/recorderFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.recorder.RecorderFragment"
+        android:label="@string/menu_recorder"
+        tools:layout="@layout/fragment_recorder" />
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.mirea.lutsko.mireaproject.SettingsFragment"
-        android:label="fragment_settings"
+        android:name="com.mirea.lutsko.mireaproject.ui.settings.SettingsFragment"
+        android:label="@string/menu_settings"
         tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/storiesFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.stories.StoriesFragment"
+        android:label="@string/menu_stories"
+        tools:layout="@layout/fragment_stories" />
 </navigation>
