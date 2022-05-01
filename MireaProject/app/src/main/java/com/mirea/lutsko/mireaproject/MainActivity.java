@@ -41,7 +41,8 @@ public class MainActivity extends AppCompatActivity {
                 R.id.cameraFragment,
                 R.id.recorderFragment,
                 R.id.settingsFragment,
-                R.id.storiesFragment
+                R.id.storiesFragment,
+                R.id.mapsFragment
         )
                 .setOpenableLayout(drawer)
                 .build();

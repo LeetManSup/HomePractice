@@ -144,7 +144,7 @@ public class FirebaseAuthentication extends AppCompatActivity implements View.On
                 });
     }
 
-    private void signOut() {
+    public void signOut() {
         mAuth.signOut();
         updateUI(null);
     }

@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/LeetManSup/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_home.xml" value="0.286231884057971" />
+        <entry key="..\:/Users/LeetManSup/AndroidStudioProjects/MireaProject/app/src/main/res/layout/fragment_maps.xml" value="0.35989583333333336" />
         <entry key="..\:/Users/LeetManSup/Desktop/MireaProject/app/src/main/res/layout/activity_firebase_authentication.xml" value="0.35989583333333336" />
         <entry key="..\:/Users/LeetManSup/Desktop/MireaProject/app/src/main/res/layout/app_bar_main.xml" value="0.35989583333333336" />
         <entry key="..\:/Users/LeetManSup/Desktop/MireaProject/app/src/main/res/layout/content_firebase_authentication.xml" value="0.286231884057971" />

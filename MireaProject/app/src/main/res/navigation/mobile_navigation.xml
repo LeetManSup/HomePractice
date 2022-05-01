@@ -51,4 +51,9 @@
         android:name="com.mirea.lutsko.mireaproject.ui.stories.StoriesFragment"
         android:label="@string/menu_stories"
         tools:layout="@layout/fragment_stories" />
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.mirea.lutsko.mireaproject.ui.maps.MapsFragment"
+        android:label="@string/menu_maps"
+        tools:layout="@layout/fragment_maps" />
 </navigation>

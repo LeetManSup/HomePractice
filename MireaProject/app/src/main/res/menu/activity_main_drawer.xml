@@ -36,5 +36,9 @@
             android:id="@+id/storiesFragment"
             android:icon="@drawable/ic_stories_foreground"
             android:title="@string/menu_stories"/>
+        <item
+            android:id="@+id/mapsFragment"
+            android:icon="@drawable/ic_maps_foreground"
+            android:title="@string/menu_maps"/>
     </group>
 </menu>
